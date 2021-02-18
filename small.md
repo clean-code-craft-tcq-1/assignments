@@ -16,8 +16,14 @@ Consider:
 - Can it simplify the code? How low can you bring the Cyclomatic Complexity?
 - Can this 'naming exercise' uncover hidden requirements?
 
+## Pick a language for your assignment
+
 [C](https://classroom.github.com/a/w_XIuFr9)
+
 [C++](https://classroom.github.com/a/FYNuYC_B)
+
 [C#](https://classroom.github.com/a/x_oGBLvq)
+
 [Java](https://classroom.github.com/a/MQn13UkX)
+
 [Python](https://classroom.github.com/a/4r5zHmSo)
