@@ -27,3 +27,7 @@ Consider:
 [Java](https://classroom.github.com/a/MQn13UkX)
 
 [Python](https://classroom.github.com/a/4r5zHmSo)
+
+## References
+
+[The Art of Readable Code](https://www.oreilly.com/library/view/the-art-of/9781449318482/)

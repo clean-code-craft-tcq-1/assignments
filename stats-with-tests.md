@@ -1,12 +1,16 @@
 # Recap: Statistics with Unit Tests
 
+[The assignment](https://github.com/clean-code-craft-tcq-1?q=statisact)
+
 ## Compliments
 
 [Thoughtful test - no alert when things are ok](https://github.com/clean-code-craft-tcq-1/start-stats-c-VishalSubban/blob/master/stats-test.cpp)
 
+> Notice that the test names are like statements of behavior.
+
 [Names with comments in .c implementation](https://github.com/clean-code-craft-tcq-1/start-stats-c-NaveenBalachandar-dev/blob/master/stats.c)
 
-> Notice that the test names are like statements of behavior.
+> Comments vs Naming: What's your preference?
 
 ## Watch out
 
