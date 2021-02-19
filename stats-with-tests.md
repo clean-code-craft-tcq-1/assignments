@@ -14,7 +14,7 @@
 
 ## Watch out
 
-### Array as Parameter - its size is global
+### Use of globals
 
 ```c
 int emailAlertCallCount = 0;
@@ -33,8 +33,21 @@ void check_and_alert(float maxThreshold,
 	}
 }
 ```
+```python
+computedStats = {"avg": 0.0, "max": 0.0, "min": 0.0}
+def calculateStats(numbers):
+  if len(numbers) == 0:
+    computedStats["avg"] =float("nan")
+    computedStats["max"] =float("nan")
+    computedStats["min"] =float("nan")
+  else: 
+    computedStats["avg"] =sum(numbers) / len(numbers)
+    computedStats["max"] =max(numbers)
+    computedStats["min"] =min(numbers)
+  return computedStats
+```
 
-### Test to pass the code that returns 'not nan'
+### Test to pass the code that should return 'nan'
 
 ```c
 TEST_CASE("average is NaN for empty array") {
@@ -45,6 +58,20 @@ TEST_CASE("average is NaN for empty array") {
     REQUIRE(isnan(computedStats.min) == 0);
     REQUIRE(isnan(computedStats.max) == 0);
 }
+```
+```python
+def test_avg_is_nan_for_empty_input(self):
+    computedStats = statistics.calculateStats([])
+    self.assertTrue(computedStats["avg"], math.nan)
+```
+
+### Code to pass the test
+```python
+# test
+epsilon = 0.001
+self.assertAlmostEqual(computedStats["avg"], 4.525, delta=epsilon)
+# code
+avg_value = round(sum(numbers) / len(numbers), 3)
 ```
 
 ### Empty array in C - how
