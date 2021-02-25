@@ -2,7 +2,9 @@
 
 ## Try It
 
-[Well-named small files](small.md)
+[Functional Programming](functional.md)
+
+[Well-named small files](small.md) and its [recap](modular-recap.md)
 
 [Recap of stats-with-tests](stats-with-tests.md)
 
@@ -19,7 +21,7 @@ Tue --> commit 'at least / latest' by EoD
 
 ---
 
-Wed --> Last commit will be picked for review
+Wed --> Latest commit will be picked for review
 
 Wed + Thu --> rework or respond
 
