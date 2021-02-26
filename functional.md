@@ -2,12 +2,12 @@
 
 ## Pick a language for your assignment
 
-[C]
+[C](https://classroom.github.com/a/b0p0kpx8)
 
-[C++]
+[C++](https://classroom.github.com/a/lndzi7wV)
 
-[C#]
+[C#](https://classroom.github.com/a/iz3ICuFJ)
 
-[Java]
+[Java](https://classroom.github.com/a/_OnUCC_m)
 
-[Python]
+[Python](https://classroom.github.com/a/Wup1w_Ts)

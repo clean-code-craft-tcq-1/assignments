@@ -17,8 +17,8 @@
 [Python](https://github.com/clean-code-craft-tcq-1/modular-colorcoder-py)
 
 ## Functional
-[C]() |
+[C](https://github.com/clean-code-craft-tcq-1/bms-monitor-c) |
 [C++](https://github.com/clean-code-craft-tcq-1/bms-monitor-cpp) |
-[C#]() |
-[Java]() |
+[C#](https://github.com/clean-code-craft-tcq-1/bms-monitor-cs) |
+[Java](https://github.com/clean-code-craft-tcq-1/bms-monitor-java) |
 [Python](https://github.com/clean-code-craft-tcq-1/bms-monitor-py)
