@@ -1,4 +1,4 @@
-
+# Small and Well-named - Recap
 
 Self-evaluation notes in README:
 
