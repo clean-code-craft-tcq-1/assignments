@@ -32,3 +32,13 @@ What would a true or a false mean here?
 ```c
 int StateOfHealth_check (float currentsoh);
 ```
+
+Coding for the tool!
+
+```c
+sohstatus =  BMS_StateOfHealth(StateofHealth);
+socstatus = BMS_StateOfCharge(stateofcharge);
+chargeratecheck = BMS_ChargeRateCheck(ChargeRate);
+temperaturecheck = BMS_TemperatureCheck(temperature);
+status= (sohstatus & sohstatus & chargeratecheck & temperaturecheck);
+```
