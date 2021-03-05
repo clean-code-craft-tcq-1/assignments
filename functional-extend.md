@@ -11,7 +11,7 @@ This assignment is a continuation of the [previous one](bms-statement.md).
 ## Extensions
 
 Try at least **two** of these extensions on your code.
-Add the selected extensions to your `README.md` file:
+Mention the extensions you select in your `README.md` file.
 
 ### Extension 1: Early Warning
 Customers need _early warnings_ to take action,
@@ -21,22 +21,23 @@ Introduce a 'warning' level with a tolerance of 5% of the upper-limit.
 Example: If the SoC needs to be between 20 and 80, the warning-tolerance is `5% of 80` = `4`.
 Warnings need to be displayed in these ranges:
 - `20` to `20+4` Warning: Approaching discharge
-- `80` to `80-4` Warning: Approaching charge-peak
+- `80-4` to `80` Warning: Approaching charge-peak
 
-Same for Temperature and Charge-rate
+Same for Temperature and Charge-rate.
 
 ### Extension 2: Support a language in addition to English
 
 Our market has expanded to German-speaking countries!
 Switch the language of the printed messages based on a global variable.
 
-Use [Google translate](https://translate.google.com) if you are unfamiliar with German.
+Use [Google translate](https://translate.google.com/?sl=en&tl=de&op=translate)
+if you aren't familiar with German.
 
 ### Extension 3: Accept input in different units
 
 Some sensors report the temperature in Fahrenheit.
 Make provision to express the unit along with the measurement.
-Avoid repeating the limits in different units
+Avoid repeating the limits in different units.
 
 ## Recommended process
 
@@ -44,7 +45,8 @@ Avoid repeating the limits in different units
 Experience the places where code gets more complex.
 Think of refactoring opportunities.
 1. Read the Recommended Approach below. 
-1. Start over with a **fresh assignment** (accept one of the assignments below).
+1. Start over with a **fresh assignment**
+(accept one of the assignments at the bottom of this page).
 1. Re-use / copy code from previous assignment only if you feel good about it.
 1. Commit in the Fresh assignment
 
@@ -90,5 +92,5 @@ Have one function to chain ('compose') these transformation-functions.
 ## Alternative
 
 You could also extend your old repository without joining a new assignment.
-If you prefer that, please complete/merge the current pull request
+If you prefer that, please complete/merge the current Pull Request
 and create a new one
