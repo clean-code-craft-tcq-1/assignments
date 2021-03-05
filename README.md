@@ -2,7 +2,9 @@
 
 ## Try It
 
-[Functional Programming](functional.md)
+[Extend and Refactor Functionality](functional-extend.md)
+
+[Functional Programming](functional.md) and its [recap](functional-recap.md)
 
 [Well-named small files](small.md) and its [recap](modular-recap.md)
 
