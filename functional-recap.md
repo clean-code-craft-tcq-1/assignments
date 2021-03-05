@@ -2,7 +2,7 @@
 
 [Notice the filenames](https://github.com/clean-code-craft-tcq-1/functional-c-Arunava-Paul).
 Can [temperature checking](https://github.com/clean-code-craft-tcq-1/functional-c-Arunava-Paul/blob/master/BMS_Sys_Temperature_eavaluation.c)
-complexity be reduced? Do other _eavaluation.c files have duplicates?
+complexity be reduced? Do other `_eavaluation.c` files have duplicates?
 
 How would [this evolve](https://github.com/clean-code-craft-tcq-1/functional-c-abhijeetlc/blob/master/checker.c)
 with more parameters? Battery types?
@@ -33,7 +33,7 @@ What would a true or a false mean here?
 int StateOfHealth_check (float currentsoh);
 ```
 
-Coding for the tool!
+Coding for the tool, spot the bug :)
 
 ```c
 sohstatus =  BMS_StateOfHealth(StateofHealth);
