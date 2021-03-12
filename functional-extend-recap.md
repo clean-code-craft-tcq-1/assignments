@@ -11,4 +11,3 @@
 [Ensure translation](https://github.com/clean-code-craft-tcq-1/function-ext-python-aswinmath94/blob/main/bms_constants.py)
 
 [Good naming and simple functions](https://github.com/clean-code-craft-tcq-1/function-ext-cpp-Niyas12/blob/master/BMS.cpp)
-

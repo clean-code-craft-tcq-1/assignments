@@ -2,7 +2,9 @@
 
 ## Try It
 
-[Extend and Refactor Functionality](functional-extend.md)
+[Enhance Reporting](enhance-reporting.md)
+
+[Extend and Refactor Functionality](functional-extend.md) and its [recap](functional-extend-recap.md)
 
 [Functional Programming](functional.md) and its [recap](functional-recap.md)
 
