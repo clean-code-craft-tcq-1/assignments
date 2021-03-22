@@ -1,3 +1,7 @@
+# Milestones
+
+[Assessment - 1](assessment1.md)
+
 # Assignments
 
 ## Try It
