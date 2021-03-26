@@ -1,10 +1,8 @@
-# Milestones
-
-[Assessment - 1](assessment1.md)
-
 # Assignments
 
 ## Try It
+
+[Type wise inference](type-wise-inference.md)
 
 [Enhance Reporting](enhance-reporting.md)
 
@@ -36,3 +34,7 @@ Wed + Thu --> rework or respond
 ---
 
 Fri - session / recap + next
+
+# Milestones
+
+[Assessment - 1](assessment1.md)
