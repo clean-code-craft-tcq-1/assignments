@@ -2,6 +2,8 @@
 
 ## Try It
 
+[Assert for confidence](assert-for-confidence.md)
+
 [Type wise inference](type-wise-inference.md)
 
 [Enhance Reporting](enhance-reporting.md)
