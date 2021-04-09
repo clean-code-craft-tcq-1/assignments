@@ -10,6 +10,7 @@ to print a message as-it-is to the console.
 (another variant of 'to controller' and 'to email')
 
 1. Cover all of the code, if not already done.
+Minimize test code and avoid repetition in tests.
 Hint: If you cover all conditions of generic / abstract functionality first,
 you don't need to repeat the test at a specific level.
 

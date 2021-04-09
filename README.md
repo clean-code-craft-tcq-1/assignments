@@ -2,7 +2,7 @@
 
 ## Try It
 
-[Assert for confidence](assert-for-confidence.md)
+[Assert for confidence](assert-for-confidence.md) and [recap](type-wise-inference-recap.md)
 
 [Type wise inference](type-wise-inference.md)
 
