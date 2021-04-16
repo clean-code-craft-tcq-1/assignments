@@ -46,3 +46,14 @@ check_and_alert as a data-convertion
 ```python
 assertEqual(check_and_alert('to_controller', batteryLimits, 16), true)
 ```
+
+## Strong tests
+
+[Data-driven tests](https://github.com/clean-code-craft-tcq-1/add-variety-c-Gagandeep-Gawadia/blob/main/test-alerts.cpp)
+
+[Test happenings and non-happenings](https://github.com/clean-code-craft-tcq-1/add-variety-c-Tamilarasan-Aruchamy/blob/main/test-alerts.cpp)
+
+[Make behavior visible from return value](https://github.com/clean-code-craft-tcq-1/add-variety-python-reetika97/blob/main/typewise_alert.test.py)
+and [one more](https://github.com/clean-code-craft-tcq-1/add-variety-python-AkshayUHegde/blob/main/typewise_alert.test.py)
+
+[Using mocks for testing errors](https://github.com/clean-code-craft-tcq-1/add-variety-python-Aruna1396/blob/main/typewise_alert.test.py)
