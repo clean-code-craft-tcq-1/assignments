@@ -1,5 +1,9 @@
 # Assignments
 
+## Milestone
+
+[Assessment-2](assessment2.md)
+
 ## Try It
 
 [Assert for confidence](assert-for-confidence.md) and [recap](type-wise-inference-recap.md)
