@@ -1,10 +1,8 @@
 # Assignments
 
-## Milestone
-
-[Assessment-2](assessment2.md)
-
 ## Try It
+
+[Fail a test](fail-first.md)
 
 [Assert for confidence](assert-for-confidence.md) and [recap](type-wise-inference-recap.md)
 
@@ -44,3 +42,5 @@ Fri - session / recap + next
 # Milestones
 
 [Assessment - 1](assessment1.md)
+
+[Assessment-2](assessment2.md)
