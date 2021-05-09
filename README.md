@@ -2,7 +2,7 @@
 
 ## Try It
 
-[Reimagined Design pattern](reimagined design pattern.md)
+[Reimagined Design pattern](fail-first.md)
 
 [Fail a test](fail-first.md)
 
