@@ -2,6 +2,8 @@
 
 ## Try It
 
+[Project: Streaming BMS Data](streaming-data.md)
+
 [Reimagined Design pattern](reimagined-design-pattern.md)
 
 [Fail a test](fail-first.md)
