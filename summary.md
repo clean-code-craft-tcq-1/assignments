@@ -43,3 +43,7 @@
 ## Test-driven development
 
 [Breakdown a problem in tests](https://github.com/clean-code-craft-tcq-1/test-driven-ranges)
+
+## Project work
+
+[Streaming BMS Data](https://github.com/clean-code-craft-tcq-1/bms-stream)
